@@ -1,2 +1,2 @@
 # chrishit
-app to build cicles of series of excercises
+app to build cicles of excercises series
